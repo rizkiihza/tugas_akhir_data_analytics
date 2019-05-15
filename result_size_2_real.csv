@@ -1,0 +1,12 @@
+,config,filename,Number of predicate,Accuracy,Time,Memory
+0,"k = 25, dslimit = 0.010000, sizeLimit = 2",output/data_text/data_minesweeper.txt,21,0.500000,81,2097152
+1,"k = 25, dslimit = 0.010000, sizeLimit = 2",output/data_text/data_currency.txt,33,0.750000,92,4192256
+2,"k = 25, dslimit = 0.010000, sizeLimit = 2",output/data_text/data_contoh.txt,16,1.000000,68,0
+3,"k = 25, dslimit = 0.010000, sizeLimit = 2",output/data_text/data_bst.txt,9,1.000000,73,2097152
+4,"k = 25, dslimit = 0.010000, sizeLimit = 2",output/data_text/data_tictactoe.txt,17,0.750000,74,2097152
+5,"k = 25, dslimit = 0.010000, sizeLimit = 2",output/data_text/data_intersect.txt,129,0.397727,378,106954752
+6,"k = 25, dslimit = 0.010000, sizeLimit = 2",output/data_text/data_lis.txt,8,1.000000,108,2097152
+7,"k = 25, dslimit = 0.010000, sizeLimit = 2",output/data_text/data_graph.txt,12,1.000000,88,2097152
+8,"k = 25, dslimit = 0.010000, sizeLimit = 2",output/data_text/data_lcs.txt,11,0.666667,79,2097152
+9,"k = 25, dslimit = 0.010000, sizeLimit = 2",output/data_text/data_maximumSum.txt,14,0.400000,87,2097152
+10,"k = 25, dslimit = 0.010000, sizeLimit = 2",output/data_text/data_minheap.txt,14,1.000000,79,2097152

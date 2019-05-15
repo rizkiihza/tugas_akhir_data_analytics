@@ -1,0 +1,4 @@
+,k,dslimit,sizeLimit,neg_sup,filename,Number of predicate,Number of test case,Accuracy,Time,Memory
+0,25,0.010000,1,0,generated_data/data_size_limit.txt,200,40,1.000000,258,96466944
+1,25,0.010000,2,0,generated_data/data_size_limit.txt,200,40,0.911765,5362,1077007248
+2,25,0.010000,3,0,generated_data/data_size_limit.txt,200,40,0.935484,223463,6478316256
